@@ -1,3 +1,10 @@
+---
+layout: default
+title: "WG官网｜wg851zc与wg570zc有什么不同：按目录比较选型条件"
+description: "wg851zc与wg570zc应逐项比较，不能只凭相近的编号或一个参数决定替代。当前表中可见差异包括尺寸、输出幅值。"
+permalink: /articles/019/
+---
+
 网站入口：[https://www.wgelect.com/](https://www.wgelect.com/)
 
 # WG官网｜wg851zc与wg570zc有什么不同：按目录比较选型条件
