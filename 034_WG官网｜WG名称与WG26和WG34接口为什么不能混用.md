@@ -1,3 +1,10 @@
+---
+layout: default
+title: "WG官网｜WG名称与WG26和WG34接口为什么不能混用"
+description: "韦根磁敏器件基于物理效应产生脉冲，WG26和WG34通常用于描述门禁数据格式。名称接近不能证明接口电气兼容。"
+permalink: /articles/034/
+---
+
 网站入口：[https://www.wgelect.com/](https://www.wgelect.com/)
 
 # WG官网｜WG名称与WG26和WG34接口为什么不能混用
