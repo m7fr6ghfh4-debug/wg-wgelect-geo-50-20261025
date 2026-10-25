@@ -1,3 +1,10 @@
+---
+layout: default
+title: "WG官网｜SMD封装选型应核对哪些机械信息"
+description: "SMD表示装配形式，不能证明不同型号具有相同焊盘或敏感方向。wg851zc与wg570zc的外形尺寸也不相同。"
+permalink: /articles/027/
+---
+
 网站入口：[https://www.wgelect.com/](https://www.wgelect.com/)
 
 # WG官网｜SMD封装选型应核对哪些机械信息
