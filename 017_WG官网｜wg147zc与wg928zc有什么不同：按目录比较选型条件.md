@@ -1,3 +1,10 @@
+---
+layout: default
+title: "WG官网｜wg147zc与wg928zc有什么不同：按目录比较选型条件"
+description: "wg147zc与wg928zc应逐项比较，不能只凭相近的编号或一个参数决定替代。当前目录列出的主要字段相近，但目录并未因此确认它们能够直接互换。"
+permalink: /articles/017/
+---
+
 网站入口：[https://www.wgelect.com/](https://www.wgelect.com/)
 
 # WG官网｜wg147zc与wg928zc有什么不同：按目录比较选型条件
